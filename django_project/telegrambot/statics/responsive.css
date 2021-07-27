@@ -1,0 +1,375 @@
+/** ***************************************
+	@Author			Gomal Themes
+	@Website		http://gomalthemes.com
+	@Created	10:35 PM Saturday, Jul. 15, 2017
+
+	TABLE CONTENTS
+	---------------------------
+		01. Media Queries
+	---------------------------
+ ** ************************************* **/
+/**	01. Media Queries
+*************************************************** **/
+@media (min-width: 1200px) {
+}
+@media (max-width: 1199px) and (min-width: 992px) {
+    .controls-holder .control-img {
+        left: 125px;
+    }
+    .controls-holder {
+        padding-left: 25px;
+    }
+    .cbp-l-filters-button .cbp-filter-item {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    .cbp-l-filters-button.top-spacing {
+        margin-top: 110px;
+    }
+    .circle-text {
+        font-size: 30px;
+    }
+}
+@media (min-width: 992px){
+
+}
+@media (max-width: 991px){
+    .flat-posts .img-holder img {
+        width: 100%;
+    }
+    .team-holder.flat,.flat-posts {
+        margin-bottom: 35px;
+    }
+    .team-holder.flat img {
+        width: 100%;
+    }
+    .flat-steps {
+        margin-bottom: 25px;
+    }
+    .services-box.flat {
+        padding-left: 55px;
+    }
+    .lb-border-img img {
+        width: 100%;
+        margin-top: 35px;
+    }
+    .cyan-overlay {
+        height: 350px;
+        text-align: center;
+    }
+    .copyright.cp3 {
+        text-align: center;
+    }
+    .copyright.cp3 .social {
+        margin-top: 15px;
+        text-align: center;
+    }
+    .footer .widget h4.title {
+        margin-bottom: 35px;
+    }
+    .column-space div[class^="col-"] + div[class^="col-"], .column-space div[class*=" col-"] + div[class*=" col-"] {
+        padding-left: 15px;
+    }
+    .widget {
+        margin-bottom: 35px;
+    }
+    .map-overlay {
+        position: relative;
+        top: 50px;
+    }
+    .horizontal-contact-widget {
+        display: inline-block;
+        width: 100%;
+        margin-top: 25px;
+    }
+    #team-xcarousel .carousel-inner {
+        margin-bottom: 35px;
+    }
+    .controls-holder .control-img {
+        left: 100px;
+    }
+    .controls-holder {
+        padding-left: 0;
+    }
+    .cbp-l-filters-button.top-spacing {
+        margin-top: 0;
+        margin-bottom: 35px !important;
+    }
+    .contact-widget ul {
+        padding-left: 0;
+    }
+    .pricing-table .price-head,.pricing-table .price-body {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .services-box,.about-block {
+        padding: 0;
+    }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+    .slider-holder {
+        height: 550px;
+    }
+    .navigation-bar ul li {
+        margin: 0 13px;
+    }
+    .control-img.data-image {
+        background-position: 50% -100px !important;
+    }
+    .box-title {
+        padding-left: 50px;
+        margin-bottom: 50px;
+    }
+    .caption-overlay.middle {
+        height: 550px;
+    }
+    .blog-post {
+        height: 450px;
+    }
+    h2 {
+        font-size: 26px;
+    }
+}
+@media (max-width: 767px){
+    .slide-overlay > div:before,.cbp-l-caption-body:before,.team-holder .overlay .middle > div:before {
+        display: none !important;
+    }
+    .social-share ul li+li {
+        margin-left: 15px;
+    }
+    blockquote {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .banner {
+        height: 350px;
+    }
+    .banner div.middle {
+        width: 100%;
+    }
+    .data-image-stellar {
+        background-position: 50% 0 !important;
+    }
+    .flat-carousel a.carousel-control {
+        display: block;
+        background-image: none !important;
+        box-shadow: none !important;
+        width: auto;
+        top: 50%;
+        height: auto;
+        bottom: auto;
+    }
+    .flat-carousel a.left.carousel-control {
+        left: -15px;
+    }
+    .flat-carousel a.right.carousel-control {
+        right: -15px;
+    }
+    .flat-control {
+        display: none !important;
+    }
+    .flat-carousel {
+        width: 100% !important;
+    }
+    .ribbon-btn {
+        margin-top: 25px;
+    }
+    .after-white:after {
+        display: none;
+    }
+    .hamburger-menu.mobile-nav {
+        display: block;
+    }
+    .vertical-blog .vb-img img {
+        width: 100%;
+    }
+    .responsive-margin {
+        margin-top: 35px;
+    }
+    .navigation-bar,.sticky-wrapper {
+        display: none;
+    }
+    .form-holder,.contact-widget {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .border-img,.pricing-table,.blog-post {
+        margin-bottom: 35px;
+    }
+}
+@media (max-width: 767px) and (min-width: 736px) {
+}
+@media (max-width: 735px) and (min-width: 685px) {
+}
+@media (max-width: 684px) and (min-width: 667px) {
+}
+@media (max-width: 666px) and (min-width: 568px) {
+}
+@media (max-width: 567px) and (min-width: 480px) {
+}
+@media (max-width: 767px) and (min-width: 480px) {
+    .cbp-l-filters-button .cbp-filter-item {
+        padding: 0 5px !important;
+    }
+    .dual-title span + span {
+        font-size: 48px;
+    }
+    .box-title {
+        padding-left: 25px;
+        margin-bottom: 35px;
+    }
+    .box-title h1 {
+        font-size: 30px;
+    }
+    .caption-overlay img {
+        max-width: 125px;
+    }
+    .caption-overlay.middle {
+        height: 400px;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 10px 15px;
+    }
+    h1,.caption-overlay h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 24px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    h4 {
+        font-size: 16px;
+    }
+    .slide-overlay > div {
+        padding: 50px 0;
+    }
+    .slide-overlay > div:before {
+        width: 24px;
+    }
+    .slide-overlay p {
+        font-size: 16px;
+    }
+    .slide-overlay h1 {
+        font-size: 48px;
+    }
+    .slider-holder {
+        height: 550px;
+    }
+}
+@media (max-width: 479px){
+    .flat-carousel {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .cbp-l-filters-button .cbp-filter-item {
+        padding: 0 !important;
+    }
+    .dual-title h2 {
+        font-size: 18px;
+    }
+    .dual-title span + span {
+        font-size: 34px;
+    }
+    .map-form-holder .map {
+        height: 350px;
+    }
+    .horizontal-contact-widget ul li {
+        width: 100%;
+    }
+    .vertical-blog {
+        margin-bottom: 25px;
+    }
+    .testimonials-blue {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .social.team a {
+        margin-bottom: 7px;
+    }
+    .controls-holder .control-img {
+        display: none !important;
+        opacity: 0 !important;
+    }
+    .controls-holder .lefto {
+        width: 45%;
+    }
+    .controls-holder .righto {
+        width: 45%;
+    }
+    .box-title {
+        padding-left: 15px;
+        margin-bottom: 25px;
+    }
+    .box-title h1,.caption-overlay h1 {
+        font-size: 28px;
+    }
+    .caption-overlay img {
+        max-width: 100px;
+    }
+    .caption-overlay.middle {
+        height: 350px;
+    }
+    .blog-post {
+        height: 390px;
+    }
+    .cbp.cbp-slider-edge .cbp-nav-prev:after,
+    .cbp.cbp-slider-edge .cbp-nav-next:after {
+        font-size: 22px;
+    }
+    .cbp.cbp-slider-edge .cbp-nav-next, .cbp.cbp-slider-edge .cbp-nav-prev {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .process-block {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    body {
+        font-size: 14px;
+    }
+    div.title > h2 > span {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .btn {
+        font-size: 14px;
+        padding: 10px;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 18px;
+    }
+    h4 {
+        font-size: 15px;
+    }
+    .slide-overlay > div {
+        padding: 30px 0;
+    }
+    .slide-overlay > div:before {
+        width: 14px;
+    }
+    .slide-overlay p {
+        font-size: 15px;
+    }
+    .slide-overlay h1 {
+        font-size: 36px;
+    }
+    .slider-holder {
+        height: 350px;
+    }
+}
+@media (max-width: 479px) and (min-width: 414px) {
+}
+@media (max-width: 413px) and (min-width: 375px) {
+}
+@media (max-width: 374px) and (min-width: 320px) {
+}
